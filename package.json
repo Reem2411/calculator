@@ -2,7 +2,7 @@
   "name": "react-styling-exercise",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://github.com/Reem2411/calculator.git/",
+  "homepage": "https://reem2411.github.io/calculator/",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
