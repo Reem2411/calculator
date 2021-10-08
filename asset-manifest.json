@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Reem2411/calculator.git/static/css/main.f07be738.chunk.css",
+    "main.js": "/Reem2411/calculator.git/static/js/main.6fc8d827.chunk.js",
+    "main.js.map": "/Reem2411/calculator.git/static/js/main.6fc8d827.chunk.js.map",
+    "runtime-main.js": "/Reem2411/calculator.git/static/js/runtime-main.b94ad13b.js",
+    "runtime-main.js.map": "/Reem2411/calculator.git/static/js/runtime-main.b94ad13b.js.map",
+    "static/js/2.f1fa012a.chunk.js": "/Reem2411/calculator.git/static/js/2.f1fa012a.chunk.js",
+    "static/js/2.f1fa012a.chunk.js.map": "/Reem2411/calculator.git/static/js/2.f1fa012a.chunk.js.map",
+    "index.html": "/Reem2411/calculator.git/index.html",
+    "static/css/main.f07be738.chunk.css.map": "/Reem2411/calculator.git/static/css/main.f07be738.chunk.css.map",
+    "static/js/2.f1fa012a.chunk.js.LICENSE.txt": "/Reem2411/calculator.git/static/js/2.f1fa012a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b94ad13b.js",
+    "static/js/2.f1fa012a.chunk.js",
+    "static/css/main.f07be738.chunk.css",
+    "static/js/main.6fc8d827.chunk.js"
+  ]
+}
